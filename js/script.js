@@ -18,7 +18,7 @@ async function getResponce(request) {
   }
 }
 
-getResponce('belarus');
+getResponce('world');
 
 function subm(e) {
   let word = searchWord.value;
